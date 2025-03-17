@@ -1,0 +1,11 @@
+{
+  "name": "webcalculator",
+  "version": "1.0.0",
+  "description": "Web-calculator",
+  "main": "fakultet.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
